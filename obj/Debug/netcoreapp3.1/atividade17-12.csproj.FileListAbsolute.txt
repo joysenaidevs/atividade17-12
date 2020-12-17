@@ -1,0 +1,13 @@
+C:\Users\DEV\Desktop\atividade17-12\bin\Debug\netcoreapp3.1\atividade17-12.exe
+C:\Users\DEV\Desktop\atividade17-12\bin\Debug\netcoreapp3.1\atividade17-12.deps.json
+C:\Users\DEV\Desktop\atividade17-12\bin\Debug\netcoreapp3.1\atividade17-12.runtimeconfig.json
+C:\Users\DEV\Desktop\atividade17-12\bin\Debug\netcoreapp3.1\atividade17-12.runtimeconfig.dev.json
+C:\Users\DEV\Desktop\atividade17-12\bin\Debug\netcoreapp3.1\atividade17-12.dll
+C:\Users\DEV\Desktop\atividade17-12\bin\Debug\netcoreapp3.1\atividade17-12.pdb
+C:\Users\DEV\Desktop\atividade17-12\obj\Debug\netcoreapp3.1\atividade17-12.csprojAssemblyReference.cache
+C:\Users\DEV\Desktop\atividade17-12\obj\Debug\netcoreapp3.1\atividade17-12.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\atividade17-12\obj\Debug\netcoreapp3.1\atividade17-12.AssemblyInfo.cs
+C:\Users\DEV\Desktop\atividade17-12\obj\Debug\netcoreapp3.1\atividade17-12.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\atividade17-12\obj\Debug\netcoreapp3.1\atividade17-12.dll
+C:\Users\DEV\Desktop\atividade17-12\obj\Debug\netcoreapp3.1\atividade17-12.pdb
+C:\Users\DEV\Desktop\atividade17-12\obj\Debug\netcoreapp3.1\atividade17-12.genruntimeconfig.cache
